@@ -913,7 +913,6 @@ def mover_con_flechas(event=None):
     #En lugar de sólo crear condiciones con descripciones complicadas, lo que hago es guardar en una variable
     #para ser más entendible y que mi programa esté más castellanizado
     desde_lista_izquierda_hacia_caja = widget == Lista_de_datos and tecla == "Left"
-    desde_lista_derecha_hacia_botones = widget == Lista_de_datos and tecla == "Right"
     
     tabla_de_alumno = opción.get() == 1
     tabla_de_asistencia = opción.get() == 2
