@@ -1,0 +1,82 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Diagrama de contexto" id="t7JEBDyGpU67FmypYG2p">
+    <mxGraphModel dx="1395" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aPVBLq7Xjj8Gzl7XFRgA-4" value="0" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=50;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="260" width="110" height="140" as="geometry">
+            <mxRectangle x="290" y="200" width="140" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-1" value="Sistema gestor&lt;div&gt;de asistencias&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="aPVBLq7Xjj8Gzl7XFRgA-4">
+          <mxGeometry y="30" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="310" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PReU1bTKT1lnFDF6Wd6E-3" value="" style="group" parent="i3i8R1e1fT35HjZxtzXt-4" vertex="1" connectable="0">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PReU1bTKT1lnFDF6Wd6E-1" value="" style="html=1;dashed=0;whiteSpace=wrap;" parent="PReU1bTKT1lnFDF6Wd6E-3" vertex="1">
+          <mxGeometry width="100" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="PReU1bTKT1lnFDF6Wd6E-2" value="" style="html=1;dashed=0;whiteSpace=wrap;" parent="PReU1bTKT1lnFDF6Wd6E-3" vertex="1">
+          <mxGeometry x="10" y="8" width="100" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="aPVBLq7Xjj8Gzl7XFRgA-1" value="" style="group" parent="i3i8R1e1fT35HjZxtzXt-4" vertex="1" connectable="0">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aPVBLq7Xjj8Gzl7XFRgA-2" value="" style="html=1;dashed=0;whiteSpace=wrap;" parent="aPVBLq7Xjj8Gzl7XFRgA-1" vertex="1">
+          <mxGeometry width="100" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="aPVBLq7Xjj8Gzl7XFRgA-3" value="Estudiante" style="html=1;dashed=0;whiteSpace=wrap;" parent="aPVBLq7Xjj8Gzl7XFRgA-1" vertex="1">
+          <mxGeometry x="10" y="8" width="100" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="300" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-6" value="" style="group" vertex="1" connectable="0" parent="i3i8R1e1fT35HjZxtzXt-5">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-7" value="" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="i3i8R1e1fT35HjZxtzXt-6">
+          <mxGeometry width="100" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-8" value="" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="i3i8R1e1fT35HjZxtzXt-6">
+          <mxGeometry x="10" y="8" width="100" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-9" value="" style="group" vertex="1" connectable="0" parent="i3i8R1e1fT35HjZxtzXt-5">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-10" value="" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="i3i8R1e1fT35HjZxtzXt-9">
+          <mxGeometry width="100" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-11" value="Docente" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="i3i8R1e1fT35HjZxtzXt-9">
+          <mxGeometry x="10" y="8" width="100" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.009;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aPVBLq7Xjj8Gzl7XFRgA-3" target="i3i8R1e1fT35HjZxtzXt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-23" value="asistencia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i3i8R1e1fT35HjZxtzXt-14">
+          <mxGeometry x="-0.2408" relative="1" as="geometry">
+            <mxPoint x="13" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.009;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430.9899999999998" y="335.5" as="sourcePoint" />
+            <mxPoint x="550" y="335.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-25" value="registros de asistencias" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i3i8R1e1fT35HjZxtzXt-22">
+          <mxGeometry x="-0.3108" y="1" relative="1" as="geometry">
+            <mxPoint x="18" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3i8R1e1fT35HjZxtzXt-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Diagrama de contexto&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: justify; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;El propósito de hacer un diagrama de flujo de datos sobre un sistema gestor de asistencias es para que los docentes y los personales administrativos determinen la asistencia de cada alumno, el cumplimiento de los requisitos de aprobación y el registro instantáneo de la puntualidad de cada uno.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="165" y="30" width="455" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

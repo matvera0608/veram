@@ -1,0 +1,9 @@
+DELIMITER //
+CREATE TRIGGER CalcularEdadDinámicamente
+BEFORE INSERT ON alumno
+FOR EACH ROW
+BEGIN
+    SET NEW.Edad = TIMESTAMPDIFF(YEAR, NEW.FechaDeNacimiento, CURDATE());
+END;
+//
+DELIMITER ;

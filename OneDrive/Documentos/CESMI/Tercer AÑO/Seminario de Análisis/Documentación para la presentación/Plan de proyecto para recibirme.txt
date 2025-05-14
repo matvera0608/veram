@@ -1,0 +1,21 @@
+**Proyecto para recibirse de SEMINARIO DE ANÁLISIS**
+
+OBJETIVOS: UTILIZAR BASE DE DATOS MYSQL WORKBENCH
+
+Crear una base de datos de escuela con tablas de alumnos y sus notas con MYSQL Workbench, es decir, haré un diagrama para una escuela así poder explicar mi proyecto.
+
+Agregar los datos como el nombre, las notas calificadas y la carrera que estudia.
+
+Antes de calcular las notas, realizaré la cantidad n de notas para que el promedio sea dinámico.
+
+Realizaré cálculos necesarios en la base de datos como el promedio de notas.
+
+Agregaré un valor de tipo string para mostrar si el alumno aprobó o no aprobó.
+
+Utilizaré python para crear la interfaz gráfica como Tkinter.
+
+Después de crear esa interfaz, agregaré esa base de datos llena para cargar todos los datos del alumno y su ID.
+
+DESCRIPCIÓN: MI PROYECTO SE TRATARÁ DE UNA BASE DE DATOS DE ESCUELA CON LOS DATOS NECESARIOS
+PRECARGADOS DE ALUMNOS COMO NOMBRE, ID, CARRERA, NOTAS, PROMEDIO PERO HACIENDO CÁLCULOS NECESARIOS
+Y SI APROBÓ LAS MATERIAS CURSADAS, PERO CARGANDO EN UNA PÁGINA WEB LUEGO DE ARMAR LA INTERFAZ GRÁFICA, CON LA BASE DE DATOS.
